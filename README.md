@@ -2,7 +2,7 @@
 
 Python code used to generate the five main Figures from Lavergne et al. (accepted) Global Change Biology. 
 
-The data and model outputs used are available upon request through the NERC JASMIN platform (http://www.jasmin.ac.uk/)
+The data and model outputs for the individual sites are available here (.csv). The model outputs for the global run are available upon request through the NERC JASMIN platform (http://www.jasmin.ac.uk/).
 
 
 # Author and contact
