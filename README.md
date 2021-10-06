@@ -1,6 +1,8 @@
 # Content
 
-Python code used to generate the figures from Lavergne et al. (accepted) Global Change Biology. 
+Python code used to generate the five main Figures from Lavergne et al. (accepted) Global Change Biology. 
+
+The data and model outputs used are available upon request through the NERC JASMIN platform (http://www.jasmin.ac.uk/)
 
 
 # Author and contact
