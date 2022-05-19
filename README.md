@@ -12,7 +12,7 @@ Aliénor Lavergne (alienor.lavergne@gmail.com)
 
 # Reference
 
-Lavergne, A., Hemming, D., Prentice, I.C., Guerrieri, R., Oliver, R.J. and Graven, H. M. (accepted) Global decadal variability of plant carbon isotope discrimination and its link to gross primary production, Global Change Biology
+Lavergne, A., Hemming, D., Prentice, I.C., Guerrieri, R., Oliver, R.J. and Graven, H. M. (2022) Global decadal variability of plant carbon isotope discrimination and its link to gross primary production, Global Change Biology, 28, 524–541, 10.1111/gcb.15924
 
 
 # Acknowledgements
